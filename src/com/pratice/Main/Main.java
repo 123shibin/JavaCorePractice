@@ -1,8 +1,8 @@
 package com.pratice.Main;
 
 
-import com.pratice.Subcodes.Inter;
-import com.pratice.Subcodes.Test;
+import com.pratice.Abstraction.Inter;
+import com.pratice.Abstraction.Test;
 
 class Main{
     public static void main(String[] args){
